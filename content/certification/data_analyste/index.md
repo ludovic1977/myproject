@@ -1,9 +1,9 @@
 ---
 author: Ludovic Perruchoud
 categories:
-- Theme Features
+#- Theme Features
 - R
-- package
+#- package
 date: "2022-02-26"
 draft: false
 excerpt: I followed a training course from Mr. Vincent Isoz of several hours on learning how to programm advanced in R 
