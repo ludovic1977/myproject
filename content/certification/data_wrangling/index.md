@@ -1,9 +1,9 @@
 ---
 author: Ludovic Perruchoud
 categories:
-- Theme Features
-- R
-- package
+#- Theme Features
+- Certification/R
+#- package
 date: "2022-02-26"
 draft: false
 excerpt: I followed a training course from Mr. Mike Chapple of several hours on learning how to wrangle (clean) advanced in R 

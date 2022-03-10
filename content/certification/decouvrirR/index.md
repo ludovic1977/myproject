@@ -1,9 +1,9 @@
 ---
 author: Ludovic Perruchoud
 categories:
-- Theme Features
-- R
-- package
+#- Theme Features
+- Certification/R
+#- package
 date: "2022-02-24"
 draft: false
 excerpt: I followed a training course from Mr Vincent Isoz of several hours on learning the basics of R

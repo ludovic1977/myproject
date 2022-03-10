@@ -2,7 +2,7 @@
 author: Ludovic Perruchoud
 categories:
 #- Theme Features
-- R
+- Certification/R
 #- package
 date: "2022-02-26"
 draft: false
