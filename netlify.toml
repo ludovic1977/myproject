@@ -17,5 +17,3 @@ HUGO_VERSION = '0.92.2'
 [context.production.environment]
 HUGO_ENV = 'production'
 HUGO_VERSION = '0.92.2'
-
-rstudioapi::navigateToFile("config.yaml", line = 3)
