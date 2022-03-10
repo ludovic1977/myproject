@@ -7,8 +7,8 @@ cascade:
   sidebar:
     show_sidebar_adunit: true
     text_link_label: View all projects
-    text_link_url: /project/
-description: In progress. To be discovered soon
+    text_link_url: /certification/
+description: Different degrees obtained with LinkedIn or by other means
 layout: list-grid
 show_author_byline: true
 show_button_links: false
@@ -21,8 +21,8 @@ sidebar:
   show_sidebar_adunit: false
   text_link_label: ""
   text_link_url: ""
-  title: A Sidebar for Your Projects
-title: Current projects
+  title: A Sidebar for my certification
+title: Certifications obtained
 ---
 
 ** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **

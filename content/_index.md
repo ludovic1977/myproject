@@ -2,19 +2,15 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Sit down, relax, and get to know Hugo Apéro. Built on top of Blogophonic,
-  we wanted to create a polished Hugo theme with the right features for a true personal
-  website. We set out to create a theme that is a pleasure to learn, and one that
-  helps others get to know you better. It is more than a blog, with flexible custom
-  layouts that help you introduce yourself online.
-image_left: true
+description: Evolving in a world where everything is accelerating, especially in terms of employability and its indispensable skills for tomorrow, I decided to learn the R language with its 18966 packages, widely used in all scientific fields. My website dedicated mainly to R aims at retracing my learning of this fantastic language and also to share with all people wondering or wishing to learn this fabulous statistical tool or simply to complete the missing information of this site. More modestly, I have the secret hope that some professional barriers will disappear, especially by showing that in each one of us, innumerable facets and competences are available, a priori antinomic. To each and every one of you, I wish you a maximum of pleasure while browsing this site.
+image_left: false
 images:
-- img/revoir.jpg
+- img/avion.jpg
 show_action_link: true
 show_social_links: true
-subtitle: A Hugo theme you'll want to hang out with
+subtitle: Ludovic Perruchoud
 text_align_left: false
-title: Hugo Apéro
+title: My website
 type: home
 ---
 
