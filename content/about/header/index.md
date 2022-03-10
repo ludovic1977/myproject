@@ -1,12 +1,11 @@
 ---
 ## Configure header of page
 text_align_right: false
-show_title_as_headline: false
+show_title_as_headline: true
 headline: |
-  Hi, my name is Hugo Apéro. Nice to meet you.
+  Who I am
 ---
 
 <!-- this is a subheadline -->
-I'm a Hugo theme you'll want to hang out with. :fr: 
+My name is Ludovic Perruchoud, I am originally from Switzerland and live in the French speaking part of the country. I have a bachelor's degree in business economics from the HEIG-VD with a background in technology (watch industry). My professional career has been marked by continuous training in parallel to my professional activity. This thirst and need to learn accompanies me every day. :fr: 
 
-The page you are reading is based on a markdown file- look in `content/about/` to edit. There, look inside the `header`, `main`, and `sidebar` folders to get started building your own "about" page.
