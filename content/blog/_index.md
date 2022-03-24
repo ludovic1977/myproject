@@ -21,10 +21,14 @@ sidebar:
   description: "\n\nA must read !\n\n"
   show_sidebar_adunit: true
   text_link_label: Subscribe via RSS
-  text_link_url: /index.xml
+  text_link_url: https://ludovicmperruchoud.netlify.app/index.xml
   title: A blog around R and about statistics
 thumbnail_left: true
 title: In progress
 ---
 
 ** No content below YAML for the blog _index. This file provides front matter for the listing page layout and sidebar content. It is also a branch bundle, and all settings under `cascade` provide front matter for all pages inside blog/. You may still override any of these by changing them in a page's front matter.**
+
+
+
+

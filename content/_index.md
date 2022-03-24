@@ -8,9 +8,9 @@ images:
 - img/avion.jpg
 show_action_link: true
 show_social_links: true
-subtitle: Ludovic Perruchoud
+subtitle: Economist HES
 text_align_left: false
-title: My website
+title: Ludovic Perruchoud
 type: home
 ---
 
