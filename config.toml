@@ -112,7 +112,7 @@ enableEmoji = true
   [[params.social]]
       icon      = "rss" # icon name without the 'fa-'
       icon_pack = "fas"
-      url       = "https://ludovicmperruchoud.netlify.app/index.xml"
+      url       = "/index.xml"
 
 [taxonomies]
   category = "categories"

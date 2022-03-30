@@ -11,8 +11,8 @@ cascade:
 description: In progress. To be discovered soon
 layout: list-grid
 show_author_byline: true
-show_button_links: false
-show_post_date: false
+show_button_links: true
+show_post_date: true
 show_post_thumbnail: true
 sidebar:
   author: Ludovic Perruchoud
