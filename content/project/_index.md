@@ -8,7 +8,7 @@ cascade:
     show_sidebar_adunit: true
     text_link_label: View all projects
     text_link_url: /project/
-description: In progress. To be discovered soon
+description: All projects finalized and under development
 layout: list-grid
 show_author_byline: true
 show_button_links: true
