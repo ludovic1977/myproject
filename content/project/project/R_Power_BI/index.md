@@ -11,7 +11,7 @@ layout: single
 subtitle: In progress...
 tags:
 - hugo-site
-title: R with Power BI Desktop (in progress)
+title: R with Power BI Desktop (completed)
 ---
 
 ---
