@@ -11,7 +11,7 @@ layout: single
 subtitle: In progress...
 tags:
 - hugo-site
-title: Temperature in Switzerland
+title: Temperature in Switzerland (in progress)
 ---
 
 ---

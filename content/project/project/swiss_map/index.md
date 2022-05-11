@@ -20,7 +20,7 @@ layout: single
 subtitle: Creating a swiss map with package Rayshader
 tags:
 - hugo-site
-title: Swiss map
+title: Swiss map (completed)
 ---
 
 ![swiss_map_image](swiss_map_final.png)
