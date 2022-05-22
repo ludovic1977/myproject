@@ -8,7 +8,7 @@ date: "2022-05-10"
 draft: false
 excerpt: Power BI Desktop offers an R function in its taskbar. This project proposes to discover a powerful and widespread Business Intelligence software, Power BI through R by means of an example file in XLSX format. Have a good discovery!
 layout: single
-subtitle: In progress...
+subtitle:
 tags:
 - hugo-site
 title: R with Power BI Desktop (completed)
