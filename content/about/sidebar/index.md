@@ -13,6 +13,10 @@ link_list:
   url: https://cran.r-project.org/
 - name: Possibilities with R
   url: http://shiny.rstudio-staging.com/gallery/
+- name: What's Python?
+  url: https://fr.wikipedia.org/wiki/Python_(langage)
+- name: Official Python website
+  url: https://www.python.org/about/
 
 ---
 ** index doesn't contain a body, just front matter above.

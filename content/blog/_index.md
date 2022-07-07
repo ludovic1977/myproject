@@ -22,7 +22,7 @@ sidebar:
   show_sidebar_adunit: true
   text_link_label: Subscribe via RSS
   text_link_url: /blog/index.xml
-  title: A blog around R and about statistics
+  title: A blog around R, Python and about statistics
 thumbnail_left: true
 title: In progress
 ---
